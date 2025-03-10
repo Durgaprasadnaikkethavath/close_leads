@@ -55,35 +55,35 @@ const Home = () => {
           <ul>
             <li>
               <FontAwesomeIcon icon={faHouse} />
-              <NavLink to="/dashboard">Dashboard</NavLink>
+              <NavLink to="#">Dashboard</NavLink>
             </li>
             <li>
               <FontAwesomeIcon icon={faHeadset} />
-              <NavLink to="/leads">Leads</NavLink>
+              <NavLink to="#">Leads</NavLink>
             </li>
             <li>
               <FontAwesomeIcon icon={faList} />
-              <NavLink to="/followups">Follow Ups</NavLink>
+              <NavLink to="#">Follow Ups</NavLink>
             </li>
             <li>
               <FontAwesomeIcon icon={faShopSlash} />
-              <NavLink to="/close">Close</NavLink>
+              <NavLink to="#">Close</NavLink>
             </li>
             <li>
               <FontAwesomeIcon icon={faUser} />
-              <NavLink to="/convert">Convert</NavLink>
+              <NavLink to="#">Convert</NavLink>
             </li>
             <li>
               <FontAwesomeIcon icon={faFile} />
-              <NavLink to="/task">Task Management</NavLink>
+              <NavLink to="#">Task Management</NavLink>
             </li>
             <li>
               <FontAwesomeIcon icon={faReceipt} />
-              <NavLink to="/invoice">Invoice</NavLink>
+              <NavLink to="#">Invoice</NavLink>
             </li>
             <li>
               <FontAwesomeIcon icon={faGear} />
-              <NavLink to="/setting">Settings</NavLink>
+              <NavLink to="#">Settings</NavLink>
             </li>
           </ul>
         </nav>
