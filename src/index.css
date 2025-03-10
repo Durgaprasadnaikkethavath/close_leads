@@ -74,7 +74,6 @@
   padding: 20px;
   width: calc(100% - 270px);
   transition: margin-left 0.3s ease-in-out;
-  overflow: auto;
 }
 
 .heading1 {
@@ -222,8 +221,8 @@
   list-style: none;
 }
 .card {
-  height: 350px;
-  width: 350px;
+  /* height: 350px;
+  width: 350px; */
   background: #4f7c82;
   padding: 25px;
   margin: 14px;
@@ -233,7 +232,7 @@
 }
 
 .card p {
-  font-size: 25px;
+  font-size: 20px;
   padding: 5px;
 }
 
